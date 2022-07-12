@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users>
+  <user> 
+    <id>1</id>  
+    <name>admin</name>  
+    <password>123456</password> 
+  </user>  
+  <user>
+    <id>2</id>
+    <name>lenmon</name>
+    <password>666666</password>
+  </user>
+</users>

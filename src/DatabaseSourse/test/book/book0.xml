@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books> 
+  <book> 
+    <id>001</id>  
+    <name>century loneliness</name>  
+    <author>marquez</author> 
+  </book>  
+  <book> 
+    <id>003</id>  
+    <name>a dream of the red chamber</name>  
+    <author>cao xueqin</author> 
+  </book>  
+  <book> 
+    <id>004</id>  
+    <name>romance of the three kingdoms</name>  
+    <author>luo guanzhong</author> 
+  </book>  
+  <book> 
+    <id>005</id>  
+    <name>journey to the west</name>  
+    <author>wu chengen</author> 
+  </book> 
+</books>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students id="char(7)" name="verchar(10)" sex="verchar(2)" age="verchar(2)"> 
+  <student>1</student>  
+  <insertables/>  
+  <index>1</index>  
+  <index_name>id</index_name> 
+</students>

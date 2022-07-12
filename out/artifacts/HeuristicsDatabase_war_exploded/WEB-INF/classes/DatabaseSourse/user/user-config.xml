@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users id="char(1)" name="verchar(30)" password="verchar(30)">
+  <user>0</user>
+  <insertables/>
+  <index/>
+  <index_name/>
+</users>

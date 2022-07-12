@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<tables> 
+  <book k001="book0" k003="book0" k004="book0" k005="book0"/>  
+  <school k04="school0" k05="school0" k06="school0" k08="school0" k09="school0" k10="school0" k11="school0" k03="school0" k22="school0" k02="school0" k12="school0"/>  
+  <student k2015011="student1" k2015001="student0" k2015002="student0" k2015003="student0" k2015006="student0" k2015007="student0" k2015008="student0" k2015009="student0" k2015010="student0" k2015013="student0" k2015014="student0"/> 
+</tables>

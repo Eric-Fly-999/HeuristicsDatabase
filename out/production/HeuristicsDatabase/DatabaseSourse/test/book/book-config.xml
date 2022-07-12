@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<books id="char(3)" name="verchar(50)" author="verchar(50)"> 
+  <book>0</book>  
+  <insertables/>  
+  <index>1</index>  
+  <index_name>id</index_name> 
+</books>
